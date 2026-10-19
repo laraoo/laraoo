@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm laraoo
 
-<!--
-**laraoo/laraoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science new grad interested in **credit risk modeling** and analytics. I’m building this portfolio to share clear, reproducible projects and explain the reasoning behind the analysis.
 
-Here are some ideas to get you started:
+## Areas of interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Credit risk and default prediction
+- Model evaluation, calibration, and interpretability
+- Translating data analysis into useful decisions
+
+## Portfolio
+
+I’m developing projects in credit risk modeling and analytics. I’ll feature them here as they’re ready.
+
+---
