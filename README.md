@@ -1,6 +1,6 @@
 # Laura (La) Rao
 
-Data science graduate from the University of Toronto, with a background in Statistics & Economics. I graduated in June 2026 and now work with CIBC’s Model Validation team. My interests include credit risk modeling, model validation, and applied data science in financial services.
+Data science graduate from the University of Toronto, with a background in Statistics & Economics. I graduated in June 2026 and work as a **Model Validation Quantitative Analyst**. My interests include credit risk modeling, model validation, and applied data science in financial services.
 
 ## Technical skills
 
